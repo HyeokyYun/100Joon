@@ -1,3 +1,3 @@
 # 14916 거스름돈
 <br>
-[](https://www.acmicpc.net/problem/14916)
+[Link to 14916](https://www.acmicpc.net/problem/14916)
